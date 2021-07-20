@@ -1,0 +1,3 @@
+resources:
+  - mysql_deploy.yml
+  - wp_deploy.yml
